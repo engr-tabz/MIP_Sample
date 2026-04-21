@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "Point_Code_MINDA_005",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{ "type": "Feature", "properties": { "Code": "MINDA_005", "Project": "Tagum-Libuganon River Basin", "Phase": null, "Location": "Tagum", "MajorProj": "SG01", "SubProj": null, "Structure": "Sluice Gate", "Point_Code": "MINDA_005" }, "geometry": { "type": "Point", "coordinates": [ 125.76359410049173, 7.467432907621633 ] } },
+{ "type": "Feature", "properties": { "Code": "MINDA_005", "Project": "Tagum-Libuganon River Basin", "Phase": null, "Location": "Tagum", "MajorProj": "SG02", "SubProj": null, "Structure": "Sluice Gate", "Point_Code": "MINDA_005" }, "geometry": { "type": "Point", "coordinates": [ 125.761997535126284, 7.445471802623419 ] } },
+{ "type": "Feature", "properties": { "Code": "MINDA_005", "Project": "Tagum-Libuganon River Basin", "Phase": null, "Location": "Tagum", "MajorProj": "SG03", "SubProj": null, "Structure": "Sluice Gate", "Point_Code": "MINDA_005" }, "geometry": { "type": "Point", "coordinates": [ 125.765845045589472, 7.434510942106995 ] } },
+{ "type": "Feature", "properties": { "Code": "MINDA_005", "Project": "Tagum-Libuganon River Basin", "Phase": null, "Location": "Tagum", "MajorProj": "SG04", "SubProj": null, "Structure": "Sluice Gate", "Point_Code": "MINDA_005" }, "geometry": { "type": "Point", "coordinates": [ 125.763505486569585, 7.423197140670129 ] } },
+{ "type": "Feature", "properties": { "Code": "MINDA_005", "Project": "Tagum-Libuganon River Basin", "Phase": null, "Location": "Tagum", "MajorProj": "SG05", "SubProj": null, "Structure": "Sluice Gate", "Point_Code": "MINDA_005" }, "geometry": { "type": "Point", "coordinates": [ 125.762813237639776, 7.413211790680599 ] } },
+{ "type": "Feature", "properties": { "Code": "MINDA_005", "Project": "Tagum-Libuganon River Basin", "Phase": null, "Location": "Tagum", "MajorProj": "SG06", "SubProj": null, "Structure": "Sluice Gate", "Point_Code": "MINDA_005" }, "geometry": { "type": "Point", "coordinates": [ 125.752910442500749, 7.408659913144407 ] } },
+{ "type": "Feature", "properties": { "Code": "MINDA_005", "Project": "Tagum-Libuganon River Basin", "Phase": null, "Location": "Tagum", "MajorProj": "SG07", "SubProj": null, "Structure": "Sluice Gate", "Point_Code": "MINDA_005" }, "geometry": { "type": "Point", "coordinates": [ 125.746930138835864, 7.399251689724358 ] } },
+{ "type": "Feature", "properties": { "Code": "MINDA_005", "Project": "Tagum-Libuganon River Basin", "Phase": null, "Location": "Tagum", "MajorProj": "SG08", "SubProj": null, "Structure": "Sluice Gate", "Point_Code": "MINDA_005" }, "geometry": { "type": "Point", "coordinates": [ 125.743064072465899, 7.395955176084382 ] } },
+{ "type": "Feature", "properties": { "Code": "MINDA_005", "Project": "Tagum-Libuganon River Basin", "Phase": null, "Location": "Davao Del Norte", "MajorProj": "D1-2", "SubProj": "Creation of an Overflow Channel + construct 1 bridge + 2 coastal jetty", "Structure": "Bridge", "Point_Code": "MINDA_005" }, "geometry": { "type": "Point", "coordinates": [ 125.748124023939582, 7.332286252768097 ] } }
+]
+}
